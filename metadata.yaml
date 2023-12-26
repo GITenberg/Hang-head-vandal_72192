@@ -1,0 +1,43 @@
+_repo: Hang-head-vandal_72192
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Clifton, Mark
+    alias: Clifton, Mark Irvin
+    birthdate: 1906
+    deathdate: 1963
+    gutenberg_agent_id: '25374'
+    url: http://www.gutenberg.org/2009/agents/25374
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Clifton
+description: ''
+gutenberg_issued: '2023-11-21'
+identifiers:
+  gutenberg: '72192'
+language: en
+pgterms:marc905: 20231025072740clifton
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Experiments -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Hang head, vandal
+url: http://www.gutenberg.org/ebooks/72192
