@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72192-h/images/cover.jpg
 creator:
   author:
     agent_name: Clifton, Mark
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25374
     wikipedia: https://en.wikipedia.org/wiki/Mark_Clifton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72192#Hang-head-vandal
 gutenberg_issued: '2023-11-21'
 identifiers:
   gutenberg: '72192'
